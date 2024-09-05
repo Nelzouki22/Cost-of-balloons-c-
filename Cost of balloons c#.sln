@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cost of balloons c#", "Cost of balloons c#\Cost of balloons c#.csproj", "{170A38D0-F95E-4BFE-9528-85E4F5FC5D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170A38D0-F95E-4BFE-9528-85E4F5FC5D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170A38D0-F95E-4BFE-9528-85E4F5FC5D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170A38D0-F95E-4BFE-9528-85E4F5FC5D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170A38D0-F95E-4BFE-9528-85E4F5FC5D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A3DBF7-629D-4A4B-A9F0-096CD538B6F9}
+	EndGlobalSection
+EndGlobal
